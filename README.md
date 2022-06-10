@@ -58,7 +58,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [bonsai.css:](https://github.com/bonsaicss/bonsai.css) A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).
 
-[bojler:](https://github.com/Slicejack/bojler) Bojler is an email framework.
+[Bojler:](https://github.com/Slicejack/bojler) Is a CSS framework for email's.
 
 [bulma:](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox.
 
@@ -72,7 +72,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [cutestrap:](https://github.com/tylerchilds/cutestrap) A strong, independent CSS Framework. Only 2.7KB minified & gzipped.
 
-[Centurion:](https://github.com/justinhough/Centurion) Centurion is a web-based framework for rapid prototyping and building larger web projects.
+[Centurion:](https://github.com/justinhough/Centurion) Is a web-based framework for rapid prototyping and building larger web projects.
 
 [Charts.css:](https://github.com/ChartsCSS/charts.css) Open source CSS framework for data visualization.
 
@@ -102,7 +102,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [foundation-sites:](https://github.com/foundation/foundation-sites) The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 
-[Fomantic-UI:](https://github.com/fomantic/fomantic-ui) Fomantic-UI is the official community fork of Semantic-UI.
+[Fomantic-UI:](https://github.com/fomantic/fomantic-ui) Is the official community fork of Semantic-UI.
 
 [Gutenberg:](https://github.com/BafS/Gutenberg) Modern framework to print the web correctly.
 
@@ -152,7 +152,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [MVP.css:](https://github.com/andybrewer/mvp/) Minimalist stylesheet for HTML elements.
 
-[Natural Selection:](https://github.com/frontaid/natural-selection) CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors.
+[Natural Selection:](https://github.com/frontaid/natural-selection) A CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors.
 
 [normalize.css:](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets.
 
@@ -198,7 +198,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [slim.js:](https://github.com/slimjs/slim.js) Fast & Robust Front-End Micro-framework based on modern standards.
 
-[simple.css:](https://github.com/kevquirk/simple.css) Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+[simple.css:](https://github.com/kevquirk/simple.css)  Is a classless CSS template that allows you to make a good looking website really quickly.
 
 [spectre:](https://github.com/picturepan2/spectre) A Lightweight, Responsive and Modern CSS Framework.
 
@@ -238,7 +238,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [water.css:](https://github.com/kognise/water.css) A drop-in collection of CSS styles to make simple websites just a little nicer
 
-[wired-elements:](https://github.com/rough-stuff/wired-elements) Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
+[wired-elements:](https://github.com/rough-stuff/wired-elements) A collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 
 [Wireframe:](https://github.com/agauniyal/wireframe) A minimal wireframing css-framework. 🎈
 
@@ -255,7 +255,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/CSS-Frameworks)
 
-Do you want help improve the this list? Create a pull request with your changes! If approved you will be added to the list of contributors of this awesome project!
+Do you want help improve this list? Create a pull request detailed with your changes! If approved you will be added to the list of contributors of this awesome project!
 
 See also the list of
 [contributors](https://github.com/MarketingPipeline/CSS-Frameworks/graphs/contributors) who
