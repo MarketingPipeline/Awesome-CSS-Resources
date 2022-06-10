@@ -28,225 +28,225 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 <br>
 
 
-[7.css: A tiny CSS framework for building faithful recreations of the Windows 7 UI.](https://github.com/khang-nd/7.css)
+[7.css:](https://github.com/khang-nd/7.css) A tiny CSS framework for building faithful recreations of the Windows 7 UI.
 
-[98.css: A design system for building faithful recreations of old UIs](https://github.com/jdan/98.css)
+[98.css:](https://github.com/jdan/98.css) A design system for building faithful recreations of old UIs. 
 
-[Amaze UI: Amaze UI, a mobile-first and modular front-end framework.](https://github.com/amazeui/amazeui)
+[Amaze UI:](https://github.com/amazeui/amazeui) A mobile-first and modular front-end framework.
 
-[AESTHETIC CSS: A vaporwave CSS framework 🌴🐬](https://github.com/torch2424/aesthetic-css)
+[AESTHETIC CSS:](https://github.com/torch2424/aesthetic-css) A vaporwave CSS framework. 🌴🐬
 
-[animate.css: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.](https://github.com/animate-css/animate.css)
+[animate.css:](https://github.com/animate-css/animate.css)  A cross-browser library of CSS animations. As easy to use as an easy thing.
 
-[aqua.css: An elegant CSS Framework.](https://github.com/alphardex/aqua.css)
+[aqua.css:](https://github.com/alphardex/aqua.css) A elegant CSS Framework.
 
-[awsm.css: Simple CSS library for semantic HTML markup](https://github.com/igoradamenko/awsm.css)
+[awsm.css:](https://github.com/igoradamenko/awsm.css) Simple CSS library for semantic HTML markup
 
-[base: Base - A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.](https://github.com/getbase/base)
+[base:](https://github.com/getbase/base) A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.
 
-[Basic.css: Basic.css - Classless CSS Starter File](https://github.com/vladocar/Basic.css)
+[Basic.css:](https://github.com/vladocar/Basic.css) Classless CSS Starter File
 
-[basscss: Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library](https://github.com/basscss/basscss/)
+[basscss:](https://github.com/basscss/basscss/) Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 
-[Bahunya: 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc.](https://github.com/Kimeiga/bahunya)
+[Bahunya:](https://github.com/Kimeiga/bahunya) 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc.
 
-[bootstrap: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.](https://github.com/twbs/bootstrap)
+[bootstrap:](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
-[BOOTSTRA.386: A vintage 1980s DOS inspired Twitter Bootstrap theme](https://github.com/kristopolous/BOOTSTRA.386)
+[BOOTSTRA.386:](https://github.com/kristopolous/BOOTSTRA.386) A vintage 1980s DOS inspired Twitter Bootstrap theme.
 
-[bourbon: A Lightweight Sass Tool Set](https://github.com/thoughtbot/bourbon/)
+[bourbon:](https://github.com/thoughtbot/bourbon/) A Lightweight Sass Tool Set.
 
-[bonsai.css: A Utility Complete CSS Framework for less than 45kb (8kB Gzipped) -](https://github.com/bonsaicss/bonsai.css)
+[bonsai.css:](https://github.com/bonsaicss/bonsai.css) A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).
 
-[bojler: Bojler is an email framework](https://github.com/Slicejack/bojler)
+[bojler:](https://github.com/Slicejack/bojler) Bojler is an email framework.
 
-[bulma: Modern CSS framework based on Flexbox](https://github.com/jgthms/bulma)
+[bulma:](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox.
 
-[Blitz: An eBook Framework (CSS + template)](https://github.com/FriendsOfEpub/Blitz)
+[Blitz:](https://github.com/FriendsOfEpub/Blitz) An eBook Framework (CSS + template).
 
-[carbon: A design system built by IBM](https://github.com/carbon-design-system/carbon)
+[carbon:](https://github.com/carbon-design-system/carbon) A design system built by IBM.
 
-[Caramel.CSS: a simple to use, easy to remember css framework](https://github.com/caramelcss/caramel)
+[Caramel.CSS:](https://github.com/caramelcss/caramel) A simple to use, easy to remember css framework.
 
-[Concise.css: A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.](https://github.com/ConciseCSS/concise.css)
+[Concise.css:](https://github.com/ConciseCSS/concise.css) A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
 
-[cutestrap: A strong, independent CSS Framework. Only 2.7KB minified & gzipped.](https://github.com/tylerchilds/cutestrap)
+[cutestrap:](https://github.com/tylerchilds/cutestrap) A strong, independent CSS Framework. Only 2.7KB minified & gzipped.
 
-[Centurion: Centurion is a web-based framework for rapid prototyping and building larger web projects.](https://github.com/justinhough/Centurion)
+[Centurion:](https://github.com/justinhough/Centurion) Centurion is a web-based framework for rapid prototyping and building larger web projects.
 
-[Charts.css: Open source CSS framework for data visualization.](https://github.com/ChartsCSS/charts.css)
+[Charts.css:](https://github.com/ChartsCSS/charts.css) Open source CSS framework for data visualization.
 
-[chota: A micro (3kb) CSS framework](https://github.com/jenil/chota)
+[chota:](https://github.com/jenil/chota) A micro (3kb) CSS framework.
 
-[codyhouse-framework: A lightweight front-end framework for building accessible, bespoke interfaces.](https://github.com/CodyHouse/codyhouse-framework)
+[codyhouse-framework:](https://github.com/CodyHouse/codyhouse-framework) A lightweight front-end framework for building accessible, bespoke interfaces.
 
-[classic.css: Generate a Classic Mac interface in your browser](https://github.com/npjg/classic.css)
+[classic.css:](https://github.com/npjg/classic.css) Generate a Classic Mac interface in your browser.
 
-[Cirrus: The SCSS framework for the modern web.](https://github.com/Spiderpig86/Cirrus)
+[Cirrus:](https://github.com/Spiderpig86/Cirrus) The SCSS framework for the modern web.
 
-[cssfx: ✨ Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx)
+[cssfx:](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects.
 
-[css-buttons: 100 Modern CSS Buttons, Free And Royalty Free.](https://github.com/eludadev/css-buttons)
+[css-buttons:](https://github.com/eludadev/css-buttons) 100 Modern CSS Buttons, Free And Royalty Free.
 
-[daisyui: The most popular, free and open-source Tailwind CSS component library](https://github.com/saadeghi/daisyui)
+[daisyui:](https://github.com/saadeghi/daisyui) The most popular, free and open-source Tailwind CSS component library.
 
-[Element: a Vue 2.0 based component library for developers, designers and product managers](https://github.com/ElemeFE/element)
+[Element:](https://github.com/ElemeFE/element) A Vue 2.0 based component library for developers, designers and product managers.
 
-[elementary.css: elementary OS's stylesheet converted to browser CSS](https://github.com/1j01/elementary.css)
+[elementary.css:](https://github.com/1j01/elementary.css) Elementary OS's stylesheet converted to browser CSS.
 
-[Filters.css: CSS only library to apply color filters.](https://github.com/bansal/filters.css)
+[Filters.css:](https://github.com/bansal/filters.css) CSS only library to apply color filters.
 
-[furatto: It's a flat, fast and powerful front-end framework for rapid web development.](https://github.com/IcaliaLabs/furatto)
+[furatto:](https://github.com/IcaliaLabs/furatto) It's a flat, fast and powerful front-end framework for rapid web development.
 
-[flexboxgrid: Grid based on CSS3 flexbox](https://github.com/kristoferjoseph/flexboxgrid)
+[flexboxgrid:](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox.
 
-[foundation-sites: The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.](https://github.com/foundation/foundation-sites)
+[foundation-sites:](https://github.com/foundation/foundation-sites) The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 
-[Fomantic-UI: Fomantic-UI is the official community fork of Semantic-UI](https://github.com/fomantic/fomantic-ui)
+[Fomantic-UI:](https://github.com/fomantic/fomantic-ui) Fomantic-UI is the official community fork of Semantic-UI.
 
-[Gutenberg: Modern framework to print the web correctly.](https://github.com/BafS/Gutenberg)
+[Gutenberg:](https://github.com/BafS/Gutenberg) Modern framework to print the web correctly.
 
-[geo-bootstrap: A timeless Twitter Bootstrap theme built for the modern web.](https://github.com/divshot/geo-bootstrap)
+[geo-bootstrap:](https://github.com/divshot/geo-bootstrap) A timeless Twitter Bootstrap theme built for the modern web.
 
-[Homebrewery: authentic looking D&D homebrews](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css)
+[Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) A CSS stylesheet to create authentic looking D&D homebrews.
 
-[hack: ⛷ Dead simple CSS framework.](https://github.com/egoist/hack)
+[hack:](https://github.com/egoist/hack) ⛷ Dead simple CSS framework.
 
-[Halfmoon: Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.](https://github.com/halfmoonui/halfmoon/)
+[Halfmoon:](https://github.com/halfmoonui/halfmoon/) Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 
-[Hover: A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover)
+[Hover:](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
-[hiq: A lightweight, progressive, high-IQ CSS framework.](https://github.com/jonathanharrell/hiq)
+[hiq:](https://github.com/jonathanharrell/hiq) A lightweight, progressive, high-IQ CSS framework.
 
-[IsometricSass: Sass library to make isometric 2D without javascript](https://github.com/MorganCaron/IsometricSass)
+[IsometricSass:](https://github.com/MorganCaron/IsometricSass) Sass library to make isometric 2D without javascript
 
-[inuitcss: Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.](https://github.com/inuitcss/inuitcss)
+[inuitcss:](https://github.com/inuitcss/inuitcss) Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 
-[Jeet: The most advanced, yet intuitive, grid system available for Sass or Stylus](https://github.com/mojotech/jeet)
+[Jeet:](https://github.com/mojotech/jeet) The most advanced, yet intuitive, grid system available for Sass or Stylus.
 
-[knopf.css: Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications](https://github.com/frameable/knopf.css)
+[knopf.css:](https://github.com/frameable/knopf.css) Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications.
 
-[lit: World's smallest responsive 🔥 css framework (395 bytes)](https://github.com/ajusa/lit)
+[lit:](https://github.com/ajusa/lit) World's smallest responsive 🔥 css framework (395 bytes).
 
 [Materialize](https://materializecss.com/)
 
-[material-components-web: Modular and customizable Material Design UI components for the web](https://github.com/material-components/material-components-web)
+[material-components-web:](https://github.com/material-components/material-components-web) Modular and customizable Material Design UI components for the web.
 
-[Metro 4: Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!](https://github.com/olton/Metro-UI-CSS)
+[Metro 4:](https://github.com/olton/Metro-UI-CSS) Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!
 
-[mobi.css: A lightweight, scalable, mobile-first CSS framework](https://github.com/mobi-css/mobi.css)
+[mobi.css:](https://github.com/mobi-css/mobi.css) A lightweight, scalable, mobile-first CSS framework
 
-[modern-normalize: 🐒 Normalize browsers' default style](https://github.com/sindresorhus/modern-normalize)
+[modern-normalize:](https://github.com/sindresorhus/modern-normalize) 🐒 Normalize browsers' default style
 
-[modern-css-reset: A bare-bones CSS reset for modern web development.](https://github.com/hankchizljaw/modern-css-reset)
+[modern-css-reset:](https://github.com/hankchizljaw/modern-css-reset) A bare-bones CSS reset for modern web development.
 
-[mdb-ui-kit: Bootstrap 5 & Material Design 2.0 UI KIT](https://github.com/mdbootstrap/mdb-ui-kit)
+[mdb-ui-kit:](https://github.com/mdbootstrap/mdb-ui-kit) Bootstrap 5 & Material Design 2.0 UI KIT.
 
-[milligram: A minimalist CSS framework.](https://github.com/milligram/milligram)
+[milligram:](https://github.com/milligram/milligram) A minimalist CSS framework.
 
-[mini.css: A minimal, responsive, style-agnostic CSS framework!](https://github.com/Chalarangelo/mini.css)
+[mini.css:](https://github.com/Chalarangelo/mini.css) A minimal, responsive, style-agnostic CSS framework!
 
-[minireset.css: A tiny modern CSS reset](https://github.com/jgthms/minireset.css)
+[minireset.css:](https://github.com/jgthms/minireset.css) A tiny modern CSS reset.
 
-[mui: lightweight CSS framework that follows Google's Material Design guidelines.](https://github.com/muicss/mui)
+[mui:](https://github.com/muicss/mui) A lightweight CSS framework that follows Google's Material Design guidelines.
 
-[MVP.css: Minimalist stylesheet for HTML elements](https://github.com/andybrewer/mvp/)
+[MVP.css:](https://github.com/andybrewer/mvp/) Minimalist stylesheet for HTML elements.
 
-[Natural Selection: CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors](https://github.com/frontaid/natural-selection)
+[Natural Selection:](https://github.com/frontaid/natural-selection) CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors.
 
-[normalize.css: A modern alternative to CSS resets](https://github.com/necolas/normalize.css/)
+[normalize.css:](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets.
 
-[NES.css: NES-style CSS Framework | ファミコン風CSSフレームワーク](https://github.com/nostalgic-css/NES.css)
+[NES.css:](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク
 
-[papercss: The Less Formal CSS Framework](https://github.com/papercss/papercss)
+[papercss:](https://github.com/papercss/papercss) The Less Formal CSS Framework.
 
-[patternfly: an open source design system built to drive consistency and unify teams.](https://github.com/patternfly/patternfly)
+[patternfly:](https://github.com/patternfly/patternfly) An open source design system built to drive consistency and unify teams.
 
-[pico: Minimal CSS Framework for semantic HTML](https://github.com/picocss/pico)
+[pico:](https://github.com/picocss/pico) Minimal CSS Framework for semantic HTML
 
-[picnic: A beautiful CSS library to kickstart your projects](https://github.com/franciscop/picnic)
+[picnic:](https://github.com/franciscop/picnic) A beautiful CSS library to kickstart your projects
 
-[primer: The CSS design system that powers GitHub](https://github.com/primer/css)
+[primer:](https://github.com/primer/css) The CSS design system that powers GitHub
 
-[primitive: ⛏️ ‎ A front-end design toolkit for developing web apps.](https://github.com/taniarascia/primitive)
+[primitive:](https://github.com/taniarascia/primitive)  ⛏️ ‎ A front-end design toolkit for developing web apps.
 
-[PSone.css: 🎮 PS1 style CSS Framework, inspired by NES.css](https://github.com/micah5/PSone.css)
+[PSone.css:](https://github.com/micah5/PSone.css) 🎮 PS1 style CSS Framework, inspired by NES.css
 
-[pure: A set of small, responsive CSS modules that you can use in every web project.](https://github.com/pure-css/pure/)
+[pure:](https://github.com/pure-css/pure/) A set of small, responsive CSS modules that you can use in every web project.
 
-[Puppertino: A CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
+[Puppertino:](https://github.com/codedgar/Puppertino) A CSS framework based on Human Guidelines from apple.
 
-[Phonon: Phonon is a responsive front-end framework with a focus on simplicity and flexibility](https://github.com/phonon-framework/phonon)
+[Phonon:](https://github.com/phonon-framework/phonon) A responsive front-end framework with a focus on simplicity and flexibility.
 
-[Ratchet: Build mobile apps with simple HTML, CSS, and JavaScript components.](https://github.com/twbs/ratchet)
+[Ratchet:](https://github.com/twbs/ratchet) Build mobile apps with simple HTML, CSS, and JavaScript components.
 
-[ress: 🚿 A modern CSS reset](https://github.com/filipelinhares/ress)
+[ress:](https://github.com/filipelinhares/ress) 🚿 A modern CSS reset.
 
-[Responsive: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites](https://github.com/responsivebp/responsive)
+[Responsive:](https://github.com/responsivebp/responsive) A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites.
 
-[RPGUI: Lightweight framework for old-school RPG GUI in web!](https://github.com/RonenNess/RPGUI)
+[RPGUI:](https://github.com/RonenNess/RPGUI) Lightweight framework for old-school RPG GUI in web!.
 
-[sanitize.css: A best-practices CSS foundation](https://github.com/csstools/sanitize.css)
+[sanitize.css:](https://github.com/csstools/sanitize.css) A best-practices CSS foundation.
 
-[sakura: a minimal css framework/theme.](https://github.com/oxalorg/sakura)
+[sakura:](https://github.com/oxalorg/sakura) A minimal css framework/theme.
 
-[Skeleton: Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development](https://github.com/dhg/Skeleton/)
+[Skeleton:](https://github.com/dhg/Skeleton/) A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
 
-[Skin: Pure CSS framework designed & developed by eBay for a branded, e-commerce marketplace. Created by eBay.](https://github.com/eBay/skin)
+[Skin:](https://github.com/eBay/skin) Pure CSS framework designed & developed by eBay for a branded, e-commerce marketplace. Created by eBay.
 
-[Semantic-UI: Semantic is a UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui)
+[Semantic-UI:](https://github.com/semantic-org/semantic-ui) a UI component framework based around useful principles from natural language.
 
-[slim.js: Fast & Robust Front-End Micro-framework based on modern standards](https://github.com/slimjs/slim.js)
+[slim.js:](https://github.com/slimjs/slim.js) Fast & Robust Front-End Micro-framework based on modern standards.
 
-[simple.css: Simple.css is a classless CSS template that allows you to make a good looking website really quickly.](https://github.com/kevquirk/simple.css)
+[simple.css:](https://github.com/kevquirk/simple.css) Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 
-[spectre: Spectre.css - A Lightweight, Responsive and Modern CSS Framework](https://github.com/picturepan2/spectre)
+[spectre:](https://github.com/picturepan2/spectre) A Lightweight, Responsive and Modern CSS Framework.
 
-[susy: Responsive layout toolkit for Sass](https://github.com/oddbird/susy)
+[susy:](https://github.com/oddbird/susy) Responsive layout toolkit for Sass.
 
-[SPCSS: A simple, minimal, classless stylesheet for simple HTML pages](https://github.com/susam/spcss)
+[SPCSS:](https://github.com/susam/spcss) A simple, minimal, classless stylesheet for simple HTML pages.
 
-[Propeller: Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.](https://github.com/digicorp/propeller)
+[Propeller:](https://github.com/digicorp/propeller) Develop more, Code less. A front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 
-[tacit: CSS framework for dummies, without a single CSS class](https://github.com/yegor256/tacit)
+[tacit:](https://github.com/yegor256/tacit) CSS framework for dummies, without a single CSS class
 
-[Tabler: Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap](https://github.com/tabler/tabler)
+[Tabler:](https://github.com/tabler/tabler) Free and open-source HTML Dashboard UI Kit built on Bootstrap
 
-[tailwindcss: A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
+[tailwindcss:](https://github.com/tailwindlabs/tailwindcss) A utility-first CSS framework for rapid UI development.
 
-[tawian-frontend: A markdowny CSS framework](https://github.com/maxbeier/tawian-frontend)
+[tawian-frontend:](https://github.com/maxbeier/tawian-frontend) A markdowny CSS framework.
 
-[terminal.css: Modern and minimalistic CSS framework for terminal enthusiasts](https://github.com/Gioni06/terminal.css)
+[terminal.css:](https://github.com/Gioni06/terminal.css) Modern and minimalistic CSS framework for terminal enthusiasts.
 
-[tentcss: A CSS survival kit. Includes only the essentials to make camp.](https://github.com/sitetent/tentcss)
+[tentcss:](https://github.com/sitetent/tentcss) A CSS survival kit. Includes only the essentials to make camp.
 
-[turretcss: Turret is a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.](https://github.com/turretcss/turretcss)
+[turretcss:](https://github.com/turretcss/turretcss) A framework for rapid development of responsive and accessible websites.
 
-[TuiCss: Text-based user interface CSS library](https://github.com/vinibiavatti1/TuiCss)
+[TuiCss:](https://github.com/vinibiavatti1/TuiCss) A text-based user interface CSS library.
 
-[uikit: A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://github.com/uikit/uikit)
+[uikit:](https://github.com/uikit/uikit) A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
-[universal.css: The only CSS you will ever need](https://github.com/marmelab/universal.css)
+[universal.css:](https://github.com/marmelab/universal.css) The only CSS you will ever need.
 
-[unnamed-css-framework: A simple colorful CSS framework](https://github.com/smakosh/unnamed-css-framework)
+[unnamed-css-framework:](https://github.com/smakosh/unnamed-css-framework) A simple colorful CSS framework.
 
-[unsemantic: Fluid grid for mobile, tablet, and desktop.](https://github.com/nathansmith/unsemantic)
+[unsemantic:](https://github.com/nathansmith/unsemantic) Fluid grid for mobile, tablet, and desktop.
 
-[Vanilla: A simple, extensible CSS framework.](https://github.com/canonical-web-and-design/vanilla-framework/)
+[Vanilla:](https://github.com/canonical-web-and-design/vanilla-framework/) A simple, extensible CSS framework.
 
-[Vital: A minimally invasive CSS framework for modern web applications.](https://github.com/doximity/vital)
+[Vital:](https://github.com/doximity/vital) A minimally invasive CSS framework for modern web applications.
 
-[water.css: A drop-in collection of CSS styles to make simple websites just a little nicer](https://github.com/kognise/water.css)
+[water.css:](https://github.com/kognise/water.css) A drop-in collection of CSS styles to make simple websites just a little nicer
 
-[wired-elements: Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.](https://github.com/rough-stuff/wired-elements)
+[wired-elements:](https://github.com/rough-stuff/wired-elements) Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 
-[Wireframe: minimal wireframing css-framework 🎈](https://github.com/agauniyal/wireframe)
+[Wireframe:](https://github.com/agauniyal/wireframe) A minimal wireframing css-framework. 🎈
 
-[wing: A beautiful CSS framework designed for minimalists.](https://github.com/kbrsh/wing)
+[wing:](https://github.com/kbrsh/wing) A beautiful CSS framework designed for minimalists.
 
 
 
-[XP.css: A CSS framework for building faithful recreations of operating system GUIs.](https://github.com/botoxparty/XP.css)  
+[XP.css:](https://github.com/botoxparty/XP.css) A CSS framework for building faithful recreations of operating system GUIs.
   
   
 </details>
