@@ -17,6 +17,8 @@
 
 [geo-bootstrap: A timeless Twitter Bootstrap theme built for the modern web.](https://github.com/divshot/geo-bootstrap)
 
+[Homebrewery: authentic looking D&D homebrews](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css)
+
 [hack: ⛷ Dead simple CSS framework.](https://github.com/egoist/hack)
 
 [Hover: A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover)
