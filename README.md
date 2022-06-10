@@ -259,7 +259,8 @@ See also the list of
 [contributors](https://github.com/MarketingPipeline/CSS-Frameworks/graphs/contributors) who
 participate in this project.
 
-## License ![GitHub](https://img.shields.io/github/license/MarketingPipeline/CSS-Frameworks)
+## License <a href="hello.com"> <img alt="License: CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg"></img></a>
+
 
 This project is licensed under the MIT License - see the
 [LICENSE.md](https://github.com/MarketingPipeline/CSS-Frameworks/blob/main/LICENSE) file for
