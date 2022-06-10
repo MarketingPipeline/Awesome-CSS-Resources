@@ -1,4 +1,31 @@
-# CSS-Frameworks
+# Awesome-CSS
+
+
+<p align="center">
+  <img height="400" src="" />
+</p>
+<div align="center">
+The only list of CSS/SCSS frameworks & resources you will ever need.
+  
+  
+   <br>
+  <small> <b><i>Show your support!</i> </b></small>
+  <br>
+   <a href="https://github.com/MarketingPipeline/CSS-Frameworks">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/CSS-Frameworks.svg?style=social&label=Star">
+  </a>
+  <a href="https://github.com/MarketingPipeline/CSS-Frameworks/fork">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/CSS-Frameworks.svg?style=social&label=Fork">
+  </a>
+   </p>  
+ </div>
+
+
+## Frameworks / Resources
+
+<details>
+<summary>Click to show the list</summary>
+<br>
 
 
 [7.css: A tiny CSS framework for building faithful recreations of the Windows 7 UI.](https://github.com/khang-nd/7.css)
@@ -219,4 +246,26 @@
 
 
 
-[XP.css: A CSS framework for building faithful recreations of operating system GUIs.](https://github.com/botoxparty/XP.css)
+[XP.css: A CSS framework for building faithful recreations of operating system GUIs.](https://github.com/botoxparty/XP.css)  
+  
+  
+</details>
+
+
+
+## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/CSS-Frameworks)
+
+Do you want help improve the this list? Create a pull request with your changes! If approved you will be added to the list of contributors of this awesome project!
+
+See also the list of
+[contributors](https://github.com/MarketingPipeline/CSS-Frameworks/graphs/contributors) who
+participate in this project.
+
+## License ![GitHub](https://img.shields.io/github/license/MarketingPipeline/CSS-Frameworks)
+
+This project is licensed under the MIT License - see the
+[LICENSE.md](https://github.com/MarketingPipeline/CSS-Frameworks/blob/main/LICENSE) file for
+details.
+
+
+
