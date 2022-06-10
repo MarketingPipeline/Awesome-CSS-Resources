@@ -1,4 +1,4 @@
-# Awesome-CSS
+# Awesome CSS Resources
 
 
 <p align="center">
