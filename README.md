@@ -7,6 +7,8 @@
 
 [Amaze UI: Amaze UI, a mobile-first and modular front-end framework.](https://github.com/amazeui/amazeui)
 
+[AESTHETIC CSS: A vaporwave CSS framework 🌴🐬](https://github.com/torch2424/aesthetic-css)
+
 [animate.css: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.](https://github.com/animate-css/animate.css)
 
 [aqua.css: An elegant CSS Framework.](https://github.com/alphardex/aqua.css)
@@ -62,6 +64,8 @@
 [daisyui: The most popular, free and open-source Tailwind CSS component library](https://github.com/saadeghi/daisyui)
 
 [Element: a Vue 2.0 based component library for developers, designers and product managers](https://github.com/ElemeFE/element)
+
+[elementary.css: elementary OS's stylesheet converted to browser CSS](https://github.com/1j01/elementary.css)
 
 [Filters.css: CSS only library to apply color filters.](https://github.com/bansal/filters.css)
 
@@ -173,6 +177,8 @@
 
 [susy: Responsive layout toolkit for Sass](https://github.com/oddbird/susy)
 
+[SPCSS: A simple, minimal, classless stylesheet for simple HTML pages](https://github.com/susam/spcss)
+
 [Propeller: Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.](https://github.com/digicorp/propeller)
 
 [tacit: CSS framework for dummies, without a single CSS class](https://github.com/yegor256/tacit)
@@ -207,6 +213,10 @@
 
 [wired-elements: Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.](https://github.com/rough-stuff/wired-elements)
 
+[Wireframe: minimal wireframing css-framework 🎈](https://github.com/agauniyal/wireframe)
+
 [wing: A beautiful CSS framework designed for minimalists.](https://github.com/kbrsh/wing)
+
+
 
 [XP.css: A CSS framework for building faithful recreations of operating system GUIs.](https://github.com/botoxparty/XP.css)
