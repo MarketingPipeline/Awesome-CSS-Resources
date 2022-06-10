@@ -11,11 +11,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
    <br>
   <small> <b><i>Show your support!</i> </b></small>
   <br>
-   <a href="https://github.com/MarketingPipeline/CSS-Frameworks">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/CSS-Frameworks.svg?style=social&label=Star">
+   <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Awesome-CSS-Resources.svg?style=social&label=Star">
   </a>
-  <a href="https://github.com/MarketingPipeline/CSS-Frameworks/fork">
-    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/CSS-Frameworks.svg?style=social&label=Fork">
+  <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources/fork">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Awesome-CSS-Resources.svg?style=social&label=Fork">
   </a>
    </p>  
  </div>
@@ -249,17 +249,17 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 
 
-## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/CSS-Frameworks)
+## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-CSS-Resources)
 
-Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/CSS-Frameworks/blob/main/.github/CONTRIBUTING.md). If approved you will be added to the list of contributors of this awesome project! 
+Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/.github/CONTRIBUTING.md). If approved you will be added to the list of contributors of this awesome project! 
 
 See also the list of
-[contributors](https://github.com/MarketingPipeline/CSS-Frameworks/graphs/contributors) who
+[contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) who
 participate in this project.
 
-## License <a href="https://github.com/MarketingPipeline/CSS-Frameworks/blob/main/LICENSE"> <img alt="License: CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg"></img></a>
+## License <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/LICENSE"> <img alt="License: CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg"></img></a>
 
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the
-[LICENSE.md](https://github.com/MarketingPipeline/CSS-Frameworks/blob/main/LICENSE) file for
+[LICENSE.md](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/LICENSE) file for
 details.
