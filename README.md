@@ -251,7 +251,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/CSS-Frameworks)
 
-Do you want help improve this list? Create a pull request detailed with your changes! If approved you will be added to the list of contributors of this awesome project!
+Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/CSS-Frameworks/blob/main/.github/CONTRIBUTING.md). If approved you will be added to the list of contributors of this awesome project! 
 
 See also the list of
 [contributors](https://github.com/MarketingPipeline/CSS-Frameworks/graphs/contributors) who
