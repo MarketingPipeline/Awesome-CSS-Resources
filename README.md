@@ -37,6 +37,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Amaze UI:](https://github.com/amazeui/amazeui) A mobile-first and modular front-end framework.
 
 [animate.css:](https://github.com/animate-css/animate.css)  A cross-browser library of CSS animations. As easy to use as an easy thing.
+  
+[Avalanche:](https://github.com/avalanchesass/avalanche) A package based CSS framework.
 
 [aqua.css:](https://github.com/alphardex/aqua.css) A elegant CSS Framework.
 
@@ -50,14 +52,18 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [basscss:](https://github.com/basscss/basscss/) Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library.
   
+[Beercss:](https://github.com/beercss/beercss) Build material design interfaces in record time... without stress for devs... 🍺💛
+  
 [Blitz:](https://github.com/FriendsOfEpub/Blitz) An eBook Framework (CSS + template).  
 
 [Bojler:](https://github.com/Slicejack/bojler) Is a CSS framework for email's.  
   
 [bonsai.css:](https://github.com/bonsaicss/bonsai.css) A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).  
+ 
+[Bootflat:](https://github.com/bootflat/bootflat.github.io) Is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
   
 [BOOTSTRA.386:](https://github.com/kristopolous/BOOTSTRA.386) A vintage 1980s DOS inspired Twitter Bootstrap theme.    
-
+  
 [bootstrap:](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 [bourbon:](https://github.com/thoughtbot/bourbon/) A Lightweight Sass Tool Set.
@@ -97,6 +103,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Filters.css:](https://github.com/bansal/filters.css) CSS only library to apply color filters.
   
 [flexboxgrid:](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox.  
+  
+[fluidity:](https://github.com/mrmrs/fluidity)  The worlds smallest fully-responsive css framework. 
   
 [Fomantic-UI:](https://github.com/fomantic/fomantic-ui) Is the official community fork of Semantic-UI.  
   
@@ -195,6 +203,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Semantic-UI:](https://github.com/semantic-org/semantic-ui) a UI component framework based around useful principles from natural language.
   
 [simple.css:](https://github.com/kevquirk/simple.css)  Is a classless CSS template that allows you to make a good looking website really quickly.
+  
+[siimple:](https://github.com/jmjuanes/siimple)   The minimal and themeable CSS toolkit for flat and clean designs.
   
 [Skeleton:](https://github.com/dhg/Skeleton/) A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
   
