@@ -1,4 +1,4 @@
-# Awesome CSS Resources
+# Awesome CSS Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 <p align="center">
