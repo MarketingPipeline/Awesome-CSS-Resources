@@ -48,6 +48,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [awsm.css:](https://github.com/igoradamenko/awsm.css) Simple CSS library for semantic HTML markup.
   
+[axis:](https://github.com/static-dev/axis) is a large and robust css utility library built on top of stylus.  
+  
 [Bahunya:](https://github.com/Kimeiga/bahunya) 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc.  
   
 [balloon.css:](https://github.com/kazzkiq/balloon.css) Simple tooltips made of pure CSS.
@@ -67,6 +69,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Blitz:](https://github.com/FriendsOfEpub/Blitz) An eBook Framework (CSS + template).  
   
 [blocks.css:](https://github.com/thesephist/blocks.css) Add some dimension to your page with blocks 🚀.  
+  
+[blueprint:](https://github.com/palantir/blueprint) A React-based UI toolkit for the web.
 
 [Bojler:](https://github.com/Slicejack/bojler) Is a CSS framework for email's.  
   
@@ -76,9 +80,15 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [BOOTSTRA.386:](https://github.com/kristopolous/BOOTSTRA.386) A vintage 1980s DOS inspired Twitter Bootstrap theme.    
   
+[bootstrap-button-designer:](https://github.com/wawrow/bootstrap-button-designer) simple js button designer for bootstrap.  
+  
 [bootstrap:](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 [bourbon:](https://github.com/thoughtbot/bourbon/) A Lightweight Sass Tool Set.
+  
+[box-shadows.css:](https://github.com/madeas/box-shadows.css) A cross-browser collection of CSS box-shadows.  
+  
+[bttn.css:](https://github.com/ganapativs/bttn.css) Awesome buttons for awesome projects!  
 
 [bulma:](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox.
   
@@ -102,6 +112,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [classic.css:](https://github.com/npjg/classic.css) Generate a Classic Mac interface in your browser.  
   
+[clean-switch:](https://github.com/miladd3/clean-switch) Material Inspired Pure CSS toggle switch.  
+  
 [codyhouse-framework:](https://github.com/CodyHouse/codyhouse-framework) A lightweight front-end framework for building accessible, bespoke interfaces.
   
 [coraline:](https://github.com/isradeleon/coraline) Alternative CSS only framework based on Flexbox.
@@ -113,6 +125,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [css-buttons:](https://github.com/eludadev/css-buttons) 100 Modern CSS Buttons, Free And Royalty Free.
   
 [css-spinners:](https://github.com/varunsridharan/css-spinners) Collections of CSS Loading Indicators / Spinners. 
+  
+[css-toggle-component:](https://github.com/rajasegar/css-toggle-component) Pure CSS Toggle Buttons as a Web component.  
   
 [css.gg:](https://github.com/astrit/css.gg) 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API.
   
@@ -128,7 +142,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [daisyui:](https://github.com/saadeghi/daisyui) The most popular, free and open-source Tailwind CSS component library.
   
+[dookie-css:](https://github.com/voronianski/dookie-css) stylus driven css library.  
+  
 [drops:](https://github.com/yegor256/drops) Primitive CSS classes to replace most commonly used CSS styles.
+  
+[EDgrid:](https://github.com/escueladigital/EDgrid) CSS/Sass library for responsive layouts | Libreria CSS/Sass para construir layouts responsive.  
   
 [Effeckt.css:](https://github.com/h5bp/Effeckt.css) A Performant Transitions and Animations Library.
 
@@ -139,6 +157,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [fictoan:](https://github.com/sujan-s/fictoan) build and style interactive, responsive interfaces with just plain ol’ HTML.  
 
 [Filters.css:](https://github.com/bansal/filters.css) CSS only library to apply color filters.
+  
+[flakes:](https://github.com/kumailht/flakes) is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help you build business tools very quickly.  
   
 [flexboxgrid:](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox.  
   
@@ -155,20 +175,28 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [gralig:](https://github.com/erenesto/gralig) A modest, grayish CSS library.  
 
 [Gutenberg:](https://github.com/BafS/Gutenberg) Modern framework to print the web correctly.
+  
+[HTML-Sheets-of-Paper:](https://github.com/delight-im/HTML-Sheets-of-Paper) Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)  
 
 [hack:](https://github.com/egoist/hack) ⛷ Dead simple CSS framework.
   
 [Halfmoon:](https://github.com/halfmoonui/halfmoon/) Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.  
   
+[hamburgers:](https://github.com/jonsuh/hamburgers) Tasty CSS-animated Hamburgers.  
+  
 [HasserCSS:](https://github.com/HeavenMercy/HasserCSS) A lite and flexible CSS framework (Inspired by Skeleton CSS).  
   
 [hint.css:](https://github.com/chinchang/hint.css) A CSS only tooltip library for your lovely websites.  
   
-[hiq:](https://github.com/jonathanharrell/hiq) A lightweight, progressive, high-IQ CSS framework.  
+[hiq:](https://github.com/jonathanharrell/hiq) A lightweight, progressive, high-IQ CSS framework.
+  
+[holo-web:](https://github.com/zmyaro/holo-web)  A CSS library that imitates the Android Holo themes.
 
 [Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) A CSS stylesheet to create authentic looking D&D homebrews.
 
 [Hover:](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+  
+[html5-boilerplate:](https://github.com/h5bp/html5-boilerplate) A professional front-end template for building fast, robust, and adaptable web apps or sites.  
   
 [icono:](https://github.com/saeedalipoor/icono) One tag One icon, no font or svg, Pure CSS.
   
@@ -185,6 +213,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Jeet:](https://github.com/mojotech/jeet) The most advanced, yet intuitive, grid system available for Sass or Stylus.
 
 [knopf.css:](https://github.com/frameable/knopf.css) Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications.
+  
+[leonardo-ui:](https://github.com/qlik-oss/leonardo-ui)  Web UI component library with the Qlik Sense look and feel.
 
 [lilcss:](https://github.com/ColinEspinas/lilcss) 💡 Lightweight CSS framework for everyday use.   
   
@@ -203,6 +233,10 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [mdb-ui-kit:](https://github.com/mdbootstrap/mdb-ui-kit) Bootstrap 5 & Material Design 2.0 UI KIT.
   
 [Metro 4:](https://github.com/olton/Metro-UI-CSS) Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!  
+  
+[micron:](https://github.com/webkul/micron) a microInteraction library built with CSS Animations and controlled by JavaScript Power  
+  
+[microtip:](https://github.com/ghosh/microtip) 💬 Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.  
 
 [milligram:](https://github.com/milligram/milligram) A minimalist CSS framework.  
 
@@ -219,6 +253,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [mono.css:](https://github.com/kokushin/mono.css) Minimal design based on black and white.
   
 [MoreToggles.css:](https://github.com/JNKKKK/MoreToggles.css) A pure CSS library that provides you with a variety of nice-looking toggles.  
+  
+[motion-ui:](https://github.com/foundation/motion-ui) 💎 The powerful Sass library for creating CSS transitions and animations.  
   
 [mui:](https://github.com/muicss/mui) A lightweight CSS framework that follows Google's Material Design guidelines.  
 
@@ -248,6 +284,10 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [pico:](https://github.com/picocss/pico) Minimal CSS Framework for semantic HTML.
   
+[preboot:](https://github.com/mdo/preboot) A collection of LESS mixins and variables for writing better CSS.  
+  
+[pretty-checkbox:](https://github.com/lokesh-coder/pretty-checkbox) A pure CSS library to beautify checkbox and radio buttons.  
+  
 [primer:](https://github.com/primer/css) The CSS design system that powers GitHub.
   
 [primitive:](https://github.com/taniarascia/primitive)  ⛏️ ‎ A front-end design toolkit for developing web apps.  
@@ -266,6 +306,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [Ratchet:](https://github.com/twbs/ratchet) Build mobile apps with simple HTML, CSS, and JavaScript components.
   
+[repaintless:](https://github.com/szynszyliszys/repaintless) Library for fast CSS Animations.  
+  
 [Responsive:](https://github.com/responsivebp/responsive) A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites.
   
 [ress:](https://github.com/filipelinhares/ress) 🚿 A modern CSS reset.
@@ -281,6 +323,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Semantic-UI:](https://github.com/semantic-org/semantic-ui) a UI component framework based around useful principles from natural language.
   
 [shorthand:](https://github.com/shorthandcss/shorthand) Utility based css framework built with SCSS.  
+  
+[sierra:](https://github.com/sierra-library/sierra) Sierra SCSS library.
 
 [siimple:](https://github.com/jmjuanes/siimple) The minimal and themeable CSS toolkit for flat and clean designs.  
   
@@ -310,7 +354,9 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [steller-css:](https://github.com/tjhillard/steller-css) ⛰️ A utility-first CSS framework that serves as the foundation of your design system.
   
-[strawberry:](https://github.com/jfet97/strawberry) A new flexbox based CSS micro-framework.  
+[strawberry:](https://github.com/jfet97/strawberry) A new flexbox based CSS micro-framework.
+  
+[stylestats:](https://github.com/t32k/stylestats) is a library to collect CSS statistics.  
   
 [susy:](https://github.com/oddbird/susy) Responsive layout toolkit for Sass.  
   
@@ -330,7 +376,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [terminal.css:](https://github.com/Gioni06/terminal.css) Modern and minimalistic CSS framework for terminal enthusiasts.  
   
+[tootik:](https://github.com/eliortabeka/tootik) A pure CSS/SCSS/LESS Tooltips library. Super easy to use, No JavaScript required.  
+  
 [topcoat:](https://github.com/topcoat/topcoat)  CSS for clean and fast web apps.
+  
+[tuesday:](https://github.com/ShakrMedia/tuesday) A quirky CSS Animation Library. 
   
 [TuiCss:](https://github.com/vinibiavatti1/TuiCss) A text-based user interface CSS library.
   
@@ -352,9 +402,13 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [Vital:](https://github.com/doximity/vital) A minimally invasive CSS framework for modern web applications.
   
+[vivify:](https://github.com/Martz90/vivify) Vivify is free CSS animation library.  
+  
 [vov.css:](https://github.com/vaibhav111tandon/vov.css) 📱💻A CSS Library for small but useful animations💻📱 
   
 [voxel.css:](https://github.com/HunterLarco/voxel.css) A lightweight 3D CSS voxel library.
+  
+[wallop:](https://github.com/peduarte/wallop) A minimal JS library for showing & hiding things.
   
 [water.css:](https://github.com/kognise/water.css) A drop-in collection of CSS styles to make simple websites just a little nicer.  
   
@@ -365,6 +419,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [wired-elements:](https://github.com/rough-stuff/wired-elements) A collection of custom elements that appear hand drawn. Great for wireframes or a fun look.   
 
 [Wireframe:](https://github.com/agauniyal/wireframe) A minimal wireframing css-framework. 🎈
+  
+[Woah.css:](https://github.com/joerez/woah.css) CSS Animation Library for eccentrics.  
   
 [XP.css:](https://github.com/botoxparty/XP.css) A CSS framework for building faithful recreations of operating system GUIs.  
   
