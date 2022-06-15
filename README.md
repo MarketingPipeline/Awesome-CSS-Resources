@@ -104,7 +104,9 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [Centurion:](https://github.com/justinhough/Centurion) Is a web-based framework for rapid prototyping and building larger web projects.  
   
-[Charts.css:](https://github.com/ChartsCSS/charts.css) Open source CSS framework for data visualization.  
+[Charts.css:](https://github.com/ChartsCSS/charts.css) Open source CSS framework for data visualization. 
+  
+[chemistry-css:](https://github.com/mathexl/chemistry-css) A chemistry CSS library for creating Chemical Structures and Equations with just HTML.  
   
 [chota:](https://github.com/jenil/chota) A micro (3kb) CSS framework.
   
@@ -229,6 +231,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [material-components-web:](https://github.com/material-components/material-components-web) Modular and customizable Material Design UI components for the web.  
 
 [Materialize](https://materializecss.com/)
+  
+[math-css:](https://github.com/parsegon/math-css) Easy way to represent math by a few lines of HTML via CSS.  
 
 [mdb-ui-kit:](https://github.com/mdbootstrap/mdb-ui-kit) Bootstrap 5 & Material Design 2.0 UI KIT.
   
