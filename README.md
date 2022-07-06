@@ -1,4 +1,4 @@
-# Awesome CSS Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CSS Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/MarketingPipeline/Awesome-CSS-Resources/)
 
 
 <p align="center">
