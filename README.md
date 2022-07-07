@@ -443,7 +443,7 @@ See also the list of
 [contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) who
 participate in this project.
 
-## License <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/LICENSE"> <img alt="License: CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg"></img></a>
+## License <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/LICENSE"> <img alt="License: CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg"></a>
 
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the
