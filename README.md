@@ -27,11 +27,29 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 <summary>Click to show the list</summary>
 <br>
 
+### Table Of Contents
 
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
+| ------- | ------- | ------- | ------- | ------- |
+| [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) |
+| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) |
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) |
+| [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) |
+|         |         | [Z](#z) |
+
+
+
+<br>
+
+
+
+
+### 0-9
 [7.css:](https://github.com/khang-nd/7.css) A tiny CSS framework for building faithful recreations of the Windows 7 UI.
 
 [98.css:](https://github.com/jdan/98.css) A design system for building faithful recreations of old UIs. 
-  
+ 
+### A  
 [AESTHETIC CSS:](https://github.com/torch2424/aesthetic-css) A vaporwave CSS framework. 🌴🐬
   
 [agnosticui:](https://github.com/agnosticui/agnosticui) is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.  
@@ -49,7 +67,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [awsm.css:](https://github.com/igoradamenko/awsm.css) Simple CSS library for semantic HTML markup.
   
 [axis:](https://github.com/static-dev/axis) is a large and robust css utility library built on top of stylus.  
-  
+ 
+### B 
 [Bahunya:](https://github.com/Kimeiga/bahunya) 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc.  
   
 [balloon.css:](https://github.com/kazzkiq/balloon.css) Simple tooltips made of pure CSS.
@@ -94,6 +113,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [butterCake:](https://github.com/himasrafeek/butterCake) Material Design Components, Responsive and Modern CSS Framework Built with Flexbox 🍰  
 
+### C  
 [Caramel.CSS:](https://github.com/caramelcss/caramel) A simple to use, easy to remember css framework.  
 
 [carbon:](https://github.com/carbon-design-system/carbon) A design system built by IBM.
@@ -142,12 +162,15 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
    
 [cutestrap:](https://github.com/tylerchilds/cutestrap) A strong, independent CSS Framework. Only 2.7KB minified & gzipped.
 
+
+### D  
 [daisyui:](https://github.com/saadeghi/daisyui) The most popular, free and open-source Tailwind CSS component library.
   
 [dookie-css:](https://github.com/voronianski/dookie-css) stylus driven css library.  
   
 [drops:](https://github.com/yegor256/drops) Primitive CSS classes to replace most commonly used CSS styles.
-  
+
+### E
 [EDgrid:](https://github.com/escueladigital/EDgrid) CSS/Sass library for responsive layouts | Libreria CSS/Sass para construir layouts responsive.  
   
 [Effeckt.css:](https://github.com/h5bp/Effeckt.css) A Performant Transitions and Animations Library.
@@ -155,7 +178,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Element:](https://github.com/ElemeFE/element) A Vue 2.0 based component library for developers, designers and product managers.
 
 [elementary.css:](https://github.com/1j01/elementary.css) Elementary OS's stylesheet converted to browser CSS.
-  
+
+### F
 [fictoan:](https://github.com/sujan-s/fictoan) build and style interactive, responsive interfaces with just plain ol’ HTML.  
 
 [Filters.css:](https://github.com/bansal/filters.css) CSS only library to apply color filters.
@@ -172,12 +196,14 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [furatto:](https://github.com/IcaliaLabs/furatto) It's a flat, fast and powerful front-end framework for rapid web development.
 
+### G  
 [geo-bootstrap:](https://github.com/divshot/geo-bootstrap) A timeless Twitter Bootstrap theme built for the modern web. 
   
 [gralig:](https://github.com/erenesto/gralig) A modest, grayish CSS library.  
 
 [Gutenberg:](https://github.com/BafS/Gutenberg) Modern framework to print the web correctly.
   
+### H  
 [HTML-Sheets-of-Paper:](https://github.com/delight-im/HTML-Sheets-of-Paper) Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)  
 
 [hack:](https://github.com/egoist/hack) ⛷ Dead simple CSS framework.
@@ -199,7 +225,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Hover:](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
   
 [html5-boilerplate:](https://github.com/h5bp/html5-boilerplate) A professional front-end template for building fast, robust, and adaptable web apps or sites.  
-  
+
+### I
 [icono:](https://github.com/saeedalipoor/icono) One tag One icon, no font or svg, Pure CSS.
   
 [imagehover.css:](https://github.com/ciar4n/imagehover.css) Pure CSS Image Hover Effect Library.
@@ -212,10 +239,14 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
    
 [IsometricSass:](https://github.com/MorganCaron/IsometricSass) Sass library to make isometric 2D without javascript
 
+### J
 [Jeet:](https://github.com/mojotech/jeet) The most advanced, yet intuitive, grid system available for Sass or Stylus.
 
+
+### K  
 [knopf.css:](https://github.com/frameable/knopf.css) Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications.
-  
+ 
+### L   
 [leonardo-ui:](https://github.com/qlik-oss/leonardo-ui)  Web UI component library with the Qlik Sense look and feel.
 
 [lilcss:](https://github.com/ColinEspinas/lilcss) 💡 Lightweight CSS framework for everyday use.   
@@ -223,7 +254,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [lit:](https://github.com/ajusa/lit) World's smallest responsive 🔥 css framework (395 bytes).
 
 [loaders.css:](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations.
-  
+ 
+### M 
 [markdown-css:](https://github.com/mrcoles/markdown-css) CSS for making regular HTML look like plain-text markdown.  
  
 [material:](https://github.com/Tronic247/material) Modern material design framework.  
@@ -264,6 +296,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [MVP.css:](https://github.com/andybrewer/mvp/) Minimalist stylesheet for HTML elements.
   
+### N  
 [Nanasi-CSS:](https://github.com/Nanasi-CSS/Nanasi-CSS) Responsive and pure CSS framework built on Flexbox. 🍍  
   
 [Natural Selection:](https://github.com/frontaid/natural-selection) A CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors.  
@@ -275,7 +308,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [normalize.css:](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets.
   
 [numl:](https://github.com/numldesign/numl) Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈  
-  
+
+### P  
 [palm-tree-css-library:](https://github.com/PuzzlerDev/palm-tree-css-library) 🌴 Minimalist. Modern. Simple. 🌴 An open source CSS library.  
 
 [papercss:](https://github.com/papercss/papercss) The Less Formal CSS Framework.
@@ -305,9 +339,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [pure:](https://github.com/pure-css/pure/) A set of small, responsive CSS modules that you can use in every web project.  
   
 [pushy-buttons:](https://github.com/iRaul/pushy-buttons) 👇 CSS Pressable 3D Buttons.
-  
+
+### Q
 [quick:](https://github.com/GuglielmoPepe/quick)  CSS framework for web developers who do not have time. 
-  
+ 
+### R 
 [Ratchet:](https://github.com/twbs/ratchet) Build mobile apps with simple HTML, CSS, and JavaScript components.
   
 [repaintless:](https://github.com/szynszyliszys/repaintless) Library for fast CSS Animations.  
@@ -317,7 +353,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [ress:](https://github.com/filipelinhares/ress) 🚿 A modern CSS reset.
   
 [RPGUI:](https://github.com/RonenNess/RPGUI) Lightweight framework for old-school RPG GUI in web!.  
-  
+
+### S
 [sakura:](https://github.com/oxalorg/sakura) A minimal css framework/theme.
   
 [sanitize.css:](https://github.com/csstools/sanitize.css) A best-practices CSS foundation.  
@@ -365,7 +402,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [susy:](https://github.com/oddbird/susy) Responsive layout toolkit for Sass.  
   
 [switchery:](https://github.com/abpetkov/switchery) iOS 7 style switches for your checkboxes.
-  
+
+### T  
 [Tabler:](https://github.com/tabler/tabler) Free and open-source HTML Dashboard UI Kit built on Bootstrap.
   
 [tachyons:](https://github.com/tachyons-css/tachyons/) Functional css for humans.  
@@ -391,7 +429,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [turretcss:](https://github.com/turretcss/turretcss) A framework for rapid development of responsive and accessible websites.  
   
 [typebase.css:](https://github.com/devinhunt/typebase.css) A starting point for good typography on the web.    
-  
+
+### U  
 [uikit:](https://github.com/uikit/uikit) A lightweight and modular front-end framework for developing fast and powerful web interfaces.
   
 [uiterminal:](https://github.com/omerimzali/uiterminal) Terminal Style CSS Framework.  
@@ -401,7 +440,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [unnamed-css-framework:](https://github.com/smakosh/unnamed-css-framework) A simple colorful CSS framework.  
   
 [unsemantic:](https://github.com/nathansmith/unsemantic) Fluid grid for mobile, tablet, and desktop.
-  
+
+### V  
 [Vanilla:](https://github.com/canonical-web-and-design/vanilla-framework/) A simple, extensible CSS framework.
   
 [Vital:](https://github.com/doximity/vital) A minimally invasive CSS framework for modern web applications.
@@ -411,7 +451,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [vov.css:](https://github.com/vaibhav111tandon/vov.css) 📱💻A CSS Library for small but useful animations💻📱 
   
 [voxel.css:](https://github.com/HunterLarco/voxel.css) A lightweight 3D CSS voxel library.
-  
+
+### W  
 [wallop:](https://github.com/peduarte/wallop) A minimal JS library for showing & hiding things.
   
 [water.css:](https://github.com/kognise/water.css) A drop-in collection of CSS styles to make simple websites just a little nicer.  
@@ -425,9 +466,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Wireframe:](https://github.com/agauniyal/wireframe) A minimal wireframing css-framework. 🎈
   
 [Woah.css:](https://github.com/joerez/woah.css) CSS Animation Library for eccentrics.  
-  
+ 
+### X   
 [XP.css:](https://github.com/botoxparty/XP.css) A CSS framework for building faithful recreations of operating system GUIs.  
-  
+ 
+### Y   
 [yaml:](https://github.com/yamlcss/yaml) YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.  
   
 [youtube-ui:](https://github.com/devforey/youtube-ui) Youtube Like Components.
