@@ -50,6 +50,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [98.css:](https://github.com/jdan/98.css) A design system for building faithful recreations of old UIs. 
  
 ### A  
+
+
+[a11y.css:](https://github.com/ffoodd/a11y.css) This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
+ 
+
 [AESTHETIC CSS:](https://github.com/torch2424/aesthetic-css) A vaporwave CSS framework. 🌴🐬
   
 [agnosticui:](https://github.com/agnosticui/agnosticui) is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.  
@@ -66,8 +71,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [awsm.css:](https://github.com/igoradamenko/awsm.css) Simple CSS library for semantic HTML markup.
   
-[axis:](https://github.com/static-dev/axis) is a large and robust css utility library built on top of stylus.  
- 
+[axis:](https://github.com/static-dev/axis) is a large and robust css utility library built on top of stylus. 
+
 ### B 
 [Bahunya:](https://github.com/Kimeiga/bahunya) 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc.  
   
