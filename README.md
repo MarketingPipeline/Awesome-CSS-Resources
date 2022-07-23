@@ -24,10 +24,13 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 ## Frameworks / Resources
 
 <details>
+
 <summary>Click to show the list</summary>
+
 <br>
 
 ### Table Of Contents
+
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
 | ------- | ------- | ------- | ------- | ------- |
