@@ -155,6 +155,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [css-spinners:](https://github.com/varunsridharan/css-spinners) Collections of CSS Loading Indicators / Spinners. 
   
+[css-text-portrait-builder:](https://github.com/WarenGonzaga/css-text-portrait-builder) A popular pure CSS text portrait builder for your loved ones. 🥰 
+  
 [css-toggle-component:](https://github.com/rajasegar/css-toggle-component) Pure CSS Toggle Buttons as a Web component.  
   
 [css.gg:](https://github.com/astrit/css.gg) 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API.
