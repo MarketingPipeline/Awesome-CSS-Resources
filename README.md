@@ -29,7 +29,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 <br>
 
-### Table Of Contents
+### Contents
 
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
