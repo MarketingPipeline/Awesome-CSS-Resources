@@ -29,7 +29,6 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) 
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) 
 | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
-- [Contributing](#contributing-)
 
 ## Frameworks / Resources
 
