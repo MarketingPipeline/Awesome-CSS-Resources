@@ -21,24 +21,17 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
  </div>
 
 
+## Contents
+
+- [Frameworks & Resources](#frameworks--resources)
+    - [0-9](#0-9) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
+ [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) 
+| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) 
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) 
+| [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+- [Contributing](#contributing-)
+
 ## Frameworks / Resources
-
-
-### Contents
-
-
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
-| ------- | ------- | ------- | ------- | ------- |
-| [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) |
-| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) |
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) |
-| [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) |
-|         |         | [Z](#z) |
-
-
-
-
-
 
 ### 0-9
 
@@ -529,5 +522,15 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [yaml:](https://github.com/yamlcss/yaml) YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.  
   
 [youtube-ui:](https://github.com/devforey/youtube-ui) Youtube Like Components.
-</details>
+
+
+
+
+## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-CSS-Resources)
+
+Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/.github/CONTRIBUTING.md). If your pull request is approved you will be added to the list of contributors of this awesome project! 
+
+See also the list of
+[contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) who
+participate in this project.
 
