@@ -23,11 +23,6 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ## Frameworks / Resources
 
-<details>
-
-<summary>Click to show the list</summary>
-
-<br>
 
 ### Contents
 
@@ -41,8 +36,6 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 |         |         | [Z](#z) |
 
 
-
-<br>
 
 
 
@@ -538,19 +531,3 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [youtube-ui:](https://github.com/devforey/youtube-ui) Youtube Like Components.
 </details>
 
-
-
-## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-CSS-Resources)
-
-Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/.github/CONTRIBUTING.md). If your pull request is approved you will be added to the list of contributors of this awesome project! 
-
-See also the list of
-[contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) who
-participate in this project.
-
-## License <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/LICENSE"> <img alt="License: CC BY-NC 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange.svg"></a>
-
-
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the
-[LICENSE.md](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/LICENSE) file for
-details.
