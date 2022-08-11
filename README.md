@@ -155,12 +155,14 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [cssbuttonhovereffects:](https://github.com/dynamicdriverepo/cssbuttonhovereffects) Eye Catching CSS button hover effects using pseudo elements.  
  
 [cssco:](https://github.com/laurenwaller/cssco) Photographic filters made with CSS, inspired by VSCO and CSSgram.
-  
-[CssGitHubWindows:](https://github.com/Athari/CssGitHubWindows) (UserStyle) GitHub Windows Edition  
-  
-[cssfx:](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects.  
  
+[cssfx:](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects.   
+
+[CssGitHubWindows:](https://github.com/Athari/CssGitHubWindows) (UserStyle) GitHub Windows Edition  
+
 [cssgridgenerator:](https://github.com/sdras/cssgridgenerator) 🧮 Generate basic CSS Grid code to make dynamic layouts!
+
+[CSS-Image-Loader:](https://github.com/MarketingPipeline/CSS-Image-Loader) Add a image loader & image load error (without adding an HTML element or using JS).
 
 [csshake:](https://github.com/elrumordelaluz/csshake) CSS classes to move your DOM!
   
