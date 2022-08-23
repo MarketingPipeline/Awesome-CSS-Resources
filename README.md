@@ -442,6 +442,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [switchery:](https://github.com/abpetkov/switchery) iOS 7 style switches for your checkboxes.
 
+[system.css:](https://github.com/sakofchit/system.css) A design system for building retro Apple interfaces.
+
 ### T  
 
 [Tabler:](https://github.com/tabler/tabler) Free and open-source HTML Dashboard UI Kit built on Bootstrap.
