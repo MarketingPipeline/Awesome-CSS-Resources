@@ -137,7 +137,9 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [coraline:](https://github.com/isradeleon/coraline) Alternative CSS only framework based on Flexbox.
   
 [Crayon.css:](https://github.com/riccardoscalco/crayon) is a list of css variables linking color names to hex values.
-  
+
+[critical:](https://github.com/addyosmani/critical) Extract & Inline Critical-path CSS in HTML pages.
+
 [Concise.css:](https://github.com/ConciseCSS/concise.css) A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
 
 [css-buttons:](https://github.com/eludadev/css-buttons) 100 Modern CSS Buttons, Free And Royalty Free.
