@@ -1,5 +1,21 @@
 [omerimzali/uiterminal: Terminal Style CSS Framework](https://github.com/omerimzali/uiterminal)
 
+[501A-Designs/tsuika: Tsuika : A classless CSS framework powered with web components to enhance the UI / UX of your next project.](https://github.com/501A-Designs/tsuika)
+
+[magnetis/astro: An open source design system by Magnetis](https://github.com/magnetis/astro)
+
+[adidas/adidas-yarn-design-system: YARN is a frontend toolkit for developing with HTML, CSS and JS with adidas style. It provides the base layout for frontend applications](https://github.com/adidas/adidas-yarn-design-system)
+
+[tjhillard/steller-css: ⛰️ A utility-first CSS framework that serves as the foundation of your design system](https://github.com/tjhillard/steller-css)
+
+[muicss/mui: Lightweight CSS framework](https://github.com/muicss/mui)
+
+[peruvianidol/coolcss: The last CSS framework I'll (hopefully) ever have to make](https://github.com/peruvianidol/coolcss)
+
+[adobe-fonts/source-code-pro: Monospaced font family for user interface and coding environments](https://github.com/adobe-fonts/source-code-pro)
+
+[thesephist/paper.css: Lightweight, modern CSS to add some flair to your web-things 📜](https://github.com/thesephist/paper.css)
+
 [kiedtl/InvisiText: Hide text with pure CSS. Formerly known as Invisible Ink.](https://github.com/Kiedtl/InvisiText)
 
 [alexjab/bootstrap-milestones: A shiny bootstrap plugin to create milestone lists.](https://github.com/alexjab/bootstrap-milestones)
