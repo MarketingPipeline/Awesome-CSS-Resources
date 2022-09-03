@@ -200,3 +200,114 @@
 
 
 [nullilac/skeleton-screen-css: A minimalistic complete set of elements for a skeleton screen consisting of pure css. Includes scss source, minified and non-minified compiled css files with browser vendor prefixes.](https://github.com/nullilac/skeleton-screen-css)
+
+[MauriceConrad/Photon: Clone native desktop UI's like cocoa and develop native feeling applications using web technologies](https://github.com/MauriceConrad/Photon)
+
+[lukakerr/ion: A lightweight CSS framework that brings MacOS styled elements to Electron](https://github.com/lukakerr/ion)
+[kasuken/stone.css: CSS styles for HTML elements for your next Proof of Concept project](https://github.com/kasuken/stone.css)
+
+[c0bra/deviceframe: Put device frames around your mobile/web/progressive app screenshots.](https://github.com/c0bra/deviceframe)
+
+[jonsuh/hamburgers: Tasty CSS-animated Hamburgers](https://github.com/jonsuh/hamburgers)
+
+[milligram/milligram: A minimalist CSS framework.](https://github.com/milligram/milligram)
+
+[ChartsCSS/charts.css: Open source CSS framework for data visualization.](https://github.com/ChartsCSS/charts.css)
+
+[jgthms/css-reference: CSS Reference: a free visual guide to the most popular CSS properties](https://github.com/jgthms/css-reference)
+
+[bansal/pattern.css: CSS only library to fill empty background with beautiful patterns.](https://github.com/bansal/pattern.css)
+
+[maxbeier/text-spinners: Pure text, CSS only, font independent, inline loading indicators](https://github.com/maxbeier/text-spinners)
+
+[argyleink/open-props: CSS custom properties to help accelerate adaptive and consistent design.](https://github.com/argyleink/open-props)
+
+[chr15m/DoodleCSS: A simple hand drawn HTML/CSS theme](https://github.com/chr15m/DoodleCSS)
+
+[felipefialho/css-components: A set of common UI Components using just the power of CSS and without JavaScript.](https://github.com/felipefialho/css-components)
+
+[merakiui/merakiui: Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.](https://github.com/merakiui/merakiui)[merakiui/merakiui: Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.](https://github.com/merakiui/merakiui)
+
+
+[zetareticoli/cssui: A collection of interactive UI components in pure CSS](https://github.com/zetareticoli/cssui)
+
+[anydigital/float-label-css: Bulletproof CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser.](https://github.com/anydigital/float-label-css)
+
+[madmurphy/takefive.css: The most advanced pure CSS lightbox – not one single line of JavaScript has been wasted](https://github.com/madmurphy/takefive.css)
+
+[hachesilva/styleguide: Styleguide is a single html file to test all HTML tags at once. Useful for styling custom CSS frameworks, testing reset systems or just for funz.](https://github.com/hachesilva/styleguide)
+
+[stefanbohacek/SimpleSharingButtons: Share to Facebook, Twitter, Google+ and other social networks using simple HTML buttons.](https://github.com/stefanbohacek/SimpleSharingButtons)
+
+[asvvvad1/mono-color: Full-featured, responsive, and modular CSS framework in ~700bytes/1.3kb gzipped](https://github.com/asvvvad1/mono-color)
+
+[patrickblackjr/pretty-changelog: This is just a nice looking changelog template. You can customize to suit your needs. Enjoy!](https://github.com/patrickblackjr/pretty-changelog)
+
+[isradeleon/coraline: Alternative CSS only framework based on Flexbox](https://github.com/isradeleon/coraline)
+
+[guoyunhe/flexbin: Pure CSS, flexible and gapless image gallery layout like Google Images and 500px.com](https://github.com/guoyunhe/flexbin)
+
+[PerryPal21/perry.css: A simple and easy to use class-less framework based on the Nord Theme](https://github.com/PerryPal21/perry.css)
+
+[ruanmartinelli/axist: Minimal (5kb) drop-in CSS library](https://github.com/ruanmartinelli/axist)
+
+[xz/new.css: A classless CSS framework to write modern websites using only HTML.](https://github.com/xz/new.css)
+
+[oxalorg/sakura: a minimal css framework/theme.](https://github.com/oxalorg/sakura)
+
+[antharuu/BubbleGum: Bubblegum is a classless CSS framework, this is more than a simple framework, this is a simple, flexible and intuitive modern framework, fast to install, easy to use, and customizable.](https://github.com/antharuu/BubbleGum)
+
+[HoangTuan110/subreply-css: A simple, yet modern and beautiful classless CSS style. Influenced by Subreply (https://subreply.com/about)](https://github.com/HoangTuan110/subreply-css)
+
+[y-arjun-y/milkomeda.css: A port of the Visual Studio Code theme, Andromeda, into a classless CSS theme!](https://github.com/y-arjun-y/milkomeda.css)
+
+[itmeo/webgradients: A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.](https://github.com/itmeo/webgradients)
+
+[osrec/ResponsiveDevices.css: Responsive CSS Device frames for your landing pages](https://github.com/osrec/ResponsiveDevices.css)
+
+[soulshined/ft-syntax-highlight: Pure CSS syntax highlighter, no Javascript required. Includes built-in tooltips with UI themes and syntax highlighting themes](https://github.com/soulshined/ft-syntax-highlight)
+
+[AllThingsSmitty/responsive-css-grid: A super-lightweight, responsive, 8-column grid based on box-sizing](https://github.com/AllThingsSmitty/responsive-css-grid)
+
+[nextbitlabs/Rapido: Write your blog posts with semantic HTML.](https://github.com/nextbitlabs/Rapido)
+
+[fylgja/fylgja: The modular highly customisable CSS framework. Powered by CSS Components, Utilities and Props for building your Web UI.](https://github.com/fylgja/fylgja)
+
+[unlimitDesign/timbercss: A CSS Framework for Rapid Website Prototyping https://timbercss.com/](https://github.com/unlimitDesign/timbercss)
+
+[asvvvad1/mono-color: Full-featured, responsive, and modular CSS framework in ~700bytes/1.3kb gzipped](https://github.com/asvvvad1/mono-color)
+
+
+[iFallUpHill/boba: A lightweight, modular CSS framework.](https://github.com/iFallUpHill/boba)
+
+[daniruiz/skeuos-css: A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows the latest skeuomorphic design trends, using bright colors and subtle shadows for some depth.](https://github.com/daniruiz/skeuos-css)
+
+[Acmion/HyperNav: HyperNav is an advanced and interactive CSS navigation menu framework. No JavaScript.](https://github.com/Acmion/HyperNav)
+
+[alvaromontoro/snakes-and-ladders: Snakes and Ladders: a multiplayer game developed using only CSS and HTML without a single line of JavaScript](https://github.com/alvaromontoro/snakes-and-ladders)
+
+[alvaromontoro/CSS-Clocks: Clocks developed using CSS and HTML, without any JavaScript](https://github.com/alvaromontoro/CSS-Clocks)
+
+[hteumeuleu/caniemail: Can I email… Support tables for HTML and CSS in emails.](https://github.com/hteumeuleu/caniemail)
+
+[thesephist/blocks.css: Add some dimension to your page with blocks 🚀](https://github.com/thesephist/blocks.css)
+
+[themesberg/windows-95-ui-kit: 💾 Windows 95 UI Kit made with Bootstrap 4 components](https://github.com/themesberg/windows-95-ui-kit)
+
+[code-fx/Pure-CSS3-Animated-Border: Pure CSS3 animated border for all html element.](https://github.com/code-fx/Pure-CSS3-Animated-Border)
+
+[zeva-ui/zeva: a modern and minimalist ui framework for building responsive and modern frontends](https://github.com/zeva-ui/zeva)
+
+[marcomattes/eink-css-ui-framework: ePaperCSS: The ePaper CSS UI framework for e-ink and ePaper displays. Optimized for grayscale & accessibility](https://github.com/marcomattes/eink-css-ui-framework)
+
+[popsiclecss/popsicle: Fresh, modern, simple, and lightweight CSS frawework](https://github.com/popsiclecss/popsicle)
+
+[pomber/placeholdifier: Turn any website into a live wireframe](https://github.com/pomber/placeholdifier)
+
+[5t3ph/stylestage: A modern CSS showcase styled by community contributions. Add your stylesheet!](https://github.com/5t3ph/stylestage)
+
+[laurenwaller/cssco: Photographic filters made with CSS, inspired by VSCO and CSSgram](https://github.com/laurenwaller/cssco)
+
+[720kb/radiobox.css: Tiny set of pure CSS animations for your radio inputs. https://720kb.github.io/radiobox.css/](https://github.com/720kb/radiobox.css)
+
+[CodyHouse/codyhouse-framework: A lightweight front-end framework for building accessible, bespoke interfaces.](https://github.com/CodyHouse/codyhouse-framework)
