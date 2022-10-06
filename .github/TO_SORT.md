@@ -2,6 +2,8 @@
 
 [501A-Designs/tsuika: Tsuika : A classless CSS framework powered with web components to enhance the UI / UX of your next project.](https://github.com/501A-Designs/tsuika)
 
+[luxonauta/luxa: A minimalist CSS framework.](https://github.com/luxonauta/luxa)
+
 [magnetis/astro: An open source design system by Magnetis](https://github.com/magnetis/astro)
 
 [adidas/adidas-yarn-design-system: YARN is a frontend toolkit for developing with HTML, CSS and JS with adidas style. It provides the base layout for frontend applications](https://github.com/adidas/adidas-yarn-design-system)
