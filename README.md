@@ -49,6 +49,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Amaze UI:](https://github.com/amazeui/amazeui) A mobile-first and modular front-end framework.
 
 [animate.css:](https://github.com/animate-css/animate.css)  A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+[Animista:](https://animista.net/) CSS animations on demand!  
   
 [Avalanche:](https://github.com/avalanchesass/avalanche) A package based CSS framework.
 
@@ -287,11 +289,15 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
  
 ### M 
 
+[magic animations:](https://github.com/miniMAC/magic) CSS3 Animations with special effects.  
+
 [markdown-css:](https://github.com/mrcoles/markdown-css) CSS for making regular HTML look like plain-text markdown.  
  
 [material:](https://github.com/Tronic247/material) Modern material design framework.  
   
 [material-components-web:](https://github.com/material-components/material-components-web) Modular and customizable Material Design UI components for the web.  
+
+[Material Design Lite:](https://github.com/google/material-design-lite) Material Design Components in HTML/CSS/JS.  
 
 [Materialize](https://materializecss.com/)
   
@@ -324,6 +330,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [motion-ui:](https://github.com/foundation/motion-ui) 💎 The powerful Sass library for creating CSS transitions and animations.  
   
 [mui:](https://github.com/muicss/mui) A lightweight CSS framework that follows Google's Material Design guidelines.  
+
+[mustard ui:](https://github.com/kylelogue/mustard-ui) A starter CSS framework that actually looks good.  
 
 [MVP.css:](https://github.com/andybrewer/mvp/) Minimalist stylesheet for HTML elements.
   
