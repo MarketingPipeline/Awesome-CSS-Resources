@@ -42,6 +42,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [a11y.css:](https://github.com/ffoodd/a11y.css) This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
  
+[adidas-yarn-design-system:](https://github.com/adidas/adidas-yarn-design-system) YARN is a frontend toolkit for developing with HTML, CSS and JS with adidas style. It provides the base layout for frontend applications
+
 [AESTHETIC CSS:](https://github.com/torch2424/aesthetic-css) A vaporwave CSS framework. 🌴🐬
   
 [agnosticui:](https://github.com/agnosticui/agnosticui) is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.  
@@ -50,7 +52,9 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [animate.css:](https://github.com/animate-css/animate.css)  A cross-browser library of CSS animations. As easy to use as an easy thing.
 
-[Animista:](https://animista.net/) CSS animations on demand!  
+[Animista:](https://animista.net/) CSS animations on demand! 
+
+[astro:](https://github.com/magnetis/astro) An open source design system by Magnetis  
   
 [Avalanche:](https://github.com/avalanchesass/avalanche) A package based CSS framework.
 
@@ -137,6 +141,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [codyhouse-framework:](https://github.com/CodyHouse/codyhouse-framework) A lightweight front-end framework for building accessible, bespoke interfaces.
   
 [coraline:](https://github.com/isradeleon/coraline) Alternative CSS only framework based on Flexbox.
+
+[coolcss:](https://github.com/peruvianidol/coolcss) The last CSS framework I'll (hopefully) ever have to make
   
 [Crayon.css:](https://github.com/riccardoscalco/crayon) is a list of css variables linking color names to hex values.
 
@@ -286,6 +292,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [lit:](https://github.com/ajusa/lit) World's smallest responsive 🔥 css framework (395 bytes).
 
 [loaders.css:](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations.
+
+[luxa:](https://github.com/luxonauta/luxa) A minimalist CSS framework.
  
 ### M 
 
@@ -354,6 +362,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [palm-tree-css-library:](https://github.com/PuzzlerDev/palm-tree-css-library) 🌴 Minimalist. Modern. Simple. 🌴 An open source CSS library.  
 
 [papercss:](https://github.com/papercss/papercss) The Less Formal CSS Framework.
+
+[paper.css:](https://github.com/thesephist/paper.css) Lightweight, modern CSS to add some flair to your web-things 📜
   
 [patternfly:](https://github.com/patternfly/patternfly) An open source design system built to drive consistency and unify teams.
   
@@ -429,6 +439,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [Skin:](https://github.com/eBay/skin) Pure CSS framework designed & developed by eBay for a branded, e-commerce marketplace. Created by eBay.
   
 [slim.js:](https://github.com/slimjs/slim.js) Fast & Robust Front-End Micro-framework based on modern standards.  
+
+[source code pro:](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments  
   
 [spark:](https://github.com/twistedpixel/spark/) Spark is a lightweight responsive web design framework with multiple styles.  
   
@@ -473,6 +485,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 [tootik:](https://github.com/eliortabeka/tootik) A pure CSS/SCSS/LESS Tooltips library. Super easy to use, No JavaScript required.  
   
 [topcoat:](https://github.com/topcoat/topcoat)  CSS for clean and fast web apps.
+
+[tsuika:](https://github.com/501A-Designs/tsuika)  A classless CSS framework powered with web components to enhance the UI / UX of your next project.
   
 [transition.css:](https://github.com/argyleink/transition.css) drop-in css transitions.
   
