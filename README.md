@@ -418,6 +418,8 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
   
 [schema:](https://github.com/danmalarkey/schema) A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box.  
   
+[scss-to-css:](https://github.com/adamlui/scss-to-css) Recursively compile all SCSS files into minified CSS.
+  
 [Semantic-UI:](https://github.com/semantic-org/semantic-ui) a UI component framework based around useful principles from natural language.
   
 [shorthand:](https://github.com/shorthandcss/shorthand) Utility based css framework built with SCSS.  
